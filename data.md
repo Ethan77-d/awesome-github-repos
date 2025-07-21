@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -16,6 +16,30 @@
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## JavaScript
+
+*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
+
+*   [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [D1nvan/JDeepWiki](https://github.com/D1nvan/JDeepWiki) - Simple Java version of OpenDeepWiki
+
+*   [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
+
+*   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+
+*   [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
+
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+
+*   [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI powered OpenSource IDE for API first workflows
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
 ## Java
 
@@ -102,28 +126,6 @@
 *   [Chras-fu/Liuma-agent](https://github.com/Chras-fu/Liuma-agent) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为设备代理端
 
 *   [Chras-fu/Liuma-engine](https://github.com/Chras-fu/Liuma-engine) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为引擎端
-
-## JavaScript
-
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
-
-*   [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [D1nvan/JDeepWiki](https://github.com/D1nvan/JDeepWiki) - Simple Java version of OpenDeepWiki
-
-*   [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
-
-*   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
-
-*   [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
-
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-
-*   [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI powered OpenSource IDE for API first workflows
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
 ## miscellaneous
 
