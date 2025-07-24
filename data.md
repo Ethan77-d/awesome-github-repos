@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -12,10 +12,46 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
 *   [HTML](#html)
-*   [Vue](#vue)
 *   [Shell](#shell)
+*   [Vue](#vue)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## Java
+
+*   [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
+
+*   [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
+
+*   [xliking/wechat\_ai](https://github.com/xliking/wechat_ai) - 微信AI机器人
+
+*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+
+*   [GTyingzi/spring-ai-tutorial](https://github.com/GTyingzi/spring-ai-tutorial) -
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
+
+*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
+
+*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) - Provide springboot starter for dify to simplify development.
+
+*   [yangwenjie88/delay-queue](https://github.com/yangwenjie88/delay-queue) - redis实现延迟消息队列
+
+*   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
+
+*   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
+
+*   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
+
+*   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
+
+*   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
+
+*   [dqx-eterning/community](https://github.com/dqx-eterning/community) - dqx-community
 
 ## Python
 
@@ -95,40 +131,6 @@
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
-## Java
-
-*   [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
-
-*   [xliking/wechat\_ai](https://github.com/xliking/wechat_ai) - 微信AI机器人
-
-*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
-
-*   [GTyingzi/spring-ai-tutorial](https://github.com/GTyingzi/spring-ai-tutorial) -
-
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
-
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
-
-*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
-
-*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
-
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) - Provide springboot starter for dify to simplify development.
-
-*   [yangwenjie88/delay-queue](https://github.com/yangwenjie88/delay-queue) - redis实现延迟消息队列
-
-*   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
-
-*   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
-
-*   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
-
-*   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
-
-*   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
-
-*   [dqx-eterning/community](https://github.com/dqx-eterning/community) - dqx-community
-
 ## miscellaneous
 
 *   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 - 集成多模态AI助手、实时监控、日志分析与CI/CD管理，让AI为运维赋能
@@ -181,6 +183,8 @@
 
 *   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 
+*   [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 *   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
@@ -211,19 +215,17 @@
 
 *   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
-## Vue
+## Shell
 
-*   [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+## Vue
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [zhongyehai/test-platform-front](https://github.com/zhongyehai/test-platform-front) - 自动化测试平台，目前已实现接口与自动化、UI自动化、安卓自动化
 
 *   [Chras-fu/Liuma-platform](https://github.com/Chras-fu/Liuma-platform) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为平台端
-
-## Shell
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ## CSS
 
