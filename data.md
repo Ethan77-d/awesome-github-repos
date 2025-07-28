@@ -5,15 +5,15 @@
 *   [Java](#java)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
-*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [Shell](#shell)
+*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [C](#c-1)
 
@@ -131,27 +131,9 @@
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 
-## miscellaneous
+## TypeScript
 
 *   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 - 集成多模态AI助手、实时监控、日志分析与CI/CD管理，让AI为运维赋能
-
-*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-
-*   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
-
-*   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
-
-*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
-
-## Kotlin
-
-*   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
-
-*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
-
-*   [RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
-
-## TypeScript
 
 *   [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
 
@@ -191,6 +173,14 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
+## Kotlin
+
+*   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
+
+*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+
+*   [RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
+
 ## Dart
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -226,6 +216,16 @@
 ## Shell
 
 *   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+## miscellaneous
+
+*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+
+*   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
+
+*   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
+
+*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
 ## CSS
 
