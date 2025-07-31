@@ -153,7 +153,7 @@
 
 *   [liangwq/ast\_code\_search\_demo](https://github.com/liangwq/ast_code_search_demo) -
 
-*   [zilliztech/code-context](https://github.com/zilliztech/code-context) - MCP plugin for semantic code search. Integrates with Claude Code, Gemini CLI, Cursor, or any AI coding agents.
+*   [zilliztech/code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
