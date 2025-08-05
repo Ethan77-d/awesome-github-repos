@@ -133,7 +133,7 @@
 
 ## TypeScript
 
-*   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 - 集成多模态AI助手、实时监控、日志分析与CI/CD管理，让AI为运维赋能
+*   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 ---通过自然语言管理你的Linux服务器和K8s集群
 
 *   [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
 
@@ -153,7 +153,7 @@
 
 *   [liangwq/ast\_code\_search\_demo](https://github.com/liangwq/ast_code_search_demo) -
 
-*   [zilliztech/code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
