@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-*   [Java](#java)
-*   [Python](#python)
-*   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [Java](#java)
+*   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -13,47 +14,68 @@
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [C](#c-1)
 
-## Java
+## miscellaneous
 
-*   [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
+*   [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 
-*   [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
+*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
-*   [xliking/wechat\_ai](https://github.com/xliking/wechat_ai) - 微信AI机器人
+*   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
 
-*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+*   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
 
-*   [GTyingzi/spring-ai-tutorial](https://github.com/GTyingzi/spring-ai-tutorial) -
+*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+## TypeScript
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
+*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
-*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
+*   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 ---通过自然语言管理你的Linux服务器和K8s集群
 
-*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+*   [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
 
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) - Provide springboot starter for dify to simplify development.
+*   [Lianues/AIStudioBuildCopy](https://github.com/Lianues/AIStudioBuildCopy) -
 
-*   [yangwenjie88/delay-queue](https://github.com/yangwenjie88/delay-queue) - redis实现延迟消息队列
+*   [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 
-*   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
+*   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 
-*   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
+*   [OldSaltFish/vscode-extension-downloader](https://github.com/OldSaltFish/vscode-extension-downloader) - A simple vscode extension download website.
 
-*   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 
-*   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
+*   [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 
-*   [dqx-eterning/community](https://github.com/dqx-eterning/community) - dqx-community
+*   [liangwq/ast\_code\_search\_demo](https://github.com/liangwq/ast_code_search_demo) -
+
+*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+
+*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
+
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+
+*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+
+*   [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI.
+
+*   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
+*   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+
+*   [nolaurence/case-management-frontend](https://github.com/nolaurence/case-management-frontend) -
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## Python
+
+*   [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 *   [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
 
@@ -107,6 +129,42 @@
 
 *   [Chras-fu/Liuma-engine](https://github.com/Chras-fu/Liuma-engine) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为引擎端
 
+## Java
+
+*   [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
+
+*   [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
+
+*   [xliking/wechat\_ai](https://github.com/xliking/wechat_ai) - 微信AI机器人
+
+*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+
+*   [GTyingzi/spring-ai-tutorial](https://github.com/GTyingzi/spring-ai-tutorial) -
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
+
+*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
+
+*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) - Provide springboot starter for dify to simplify development.
+
+*   [yangwenjie88/delay-queue](https://github.com/yangwenjie88/delay-queue) - redis实现延迟消息队列
+
+*   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
+
+*   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
+
+*   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
+
+*   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
+
+*   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
+
+*   [dqx-eterning/community](https://github.com/dqx-eterning/community) - dqx-community
+
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -130,48 +188,6 @@
 *   [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI powered OpenSource IDE for API first workflows
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-
-## TypeScript
-
-*   [st-lzh/Wuhr-AI-ops](https://github.com/st-lzh/Wuhr-AI-ops) - 智能化运维管理平台 ---通过自然语言管理你的Linux服务器和K8s集群
-
-*   [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
-
-*   [Lianues/AIStudioBuildCopy](https://github.com/Lianues/AIStudioBuildCopy) -
-
-*   [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-*   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
-
-*   [OldSaltFish/vscode-extension-downloader](https://github.com/OldSaltFish/vscode-extension-downloader) - A simple vscode extension download website.
-
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-
-*   [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
-
-*   [liangwq/ast\_code\_search\_demo](https://github.com/liangwq/ast_code_search_demo) -
-
-*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
-
-*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
-
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
-
-*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
-
-*   [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI.
-
-*   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-
-*   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
-
-*   [nolaurence/case-management-frontend](https://github.com/nolaurence/case-management-frontend) -
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## Kotlin
 
@@ -216,16 +232,6 @@
 ## Shell
 
 *   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-## miscellaneous
-
-*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-
-*   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
-
-*   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
-
-*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
 ## CSS
 
