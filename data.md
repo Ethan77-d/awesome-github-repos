@@ -53,7 +53,7 @@
 
 *   [liangwq/ast\_code\_search\_demo](https://github.com/liangwq/ast_code_search_demo) -
 
-*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
