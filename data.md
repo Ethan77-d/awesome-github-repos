@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -11,11 +12,18 @@
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## HTML
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+
+*   [Eslzzyl/silicon-pool](https://github.com/Eslzzyl/silicon-pool) - 一个用于管理硅基流动 API Key 的本地工具
+
+*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ## Python
 
@@ -167,8 +175,6 @@
 
 *   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
 
-*   [dqx-eterning/community](https://github.com/dqx-eterning/community) - dqx-community
-
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -216,12 +222,6 @@
 ## C\#
 
 *   [shixixiyue/MermaidHelp](https://github.com/shixixiyue/MermaidHelp) - MermaidHelp + FineUI11，输入需求，调用gtp接口生成 Mermaid格式流程图并显示
-
-## HTML
-
-*   [Eslzzyl/silicon-pool](https://github.com/Eslzzyl/silicon-pool) - 一个用于管理硅基流动 API Key 的本地工具
-
-*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ## Vue
 
