@@ -12,8 +12,8 @@
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
-*   [Vue](#vue)
 *   [Shell](#shell)
+*   [Vue](#vue)
 *   [CSS](#css)
 *   [C](#c-1)
 
@@ -121,6 +121,8 @@
 
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
+*   [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 *   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
@@ -223,19 +225,17 @@
 
 *   [shixixiyue/MermaidHelp](https://github.com/shixixiyue/MermaidHelp) - MermaidHelp + FineUI11，输入需求，调用gtp接口生成 Mermaid格式流程图并显示
 
-## Vue
+## Shell
 
-*   [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+## Vue
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [zhongyehai/test-platform-front](https://github.com/zhongyehai/test-platform-front) - 自动化测试平台，目前已实现接口与自动化、UI自动化、安卓自动化
 
 *   [Chras-fu/Liuma-platform](https://github.com/Chras-fu/Liuma-platform) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为平台端
-
-## Shell
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ## CSS
 
