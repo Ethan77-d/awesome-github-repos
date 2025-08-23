@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [Python](#python)
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
@@ -17,15 +17,9 @@
 *   [CSS](#css)
 *   [C](#c-1)
 
-## HTML
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
-
-*   [Eslzzyl/silicon-pool](https://github.com/Eslzzyl/silicon-pool) - 一个用于管理硅基流动 API Key 的本地工具
-
-*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-
 ## Python
+
+*   [johnmalek312/fremko](https://github.com/johnmalek312/fremko) -
 
 *   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
@@ -80,6 +74,14 @@
 *   [Chras-fu/Liuma-agent](https://github.com/Chras-fu/Liuma-agent) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为设备代理端
 
 *   [Chras-fu/Liuma-engine](https://github.com/Chras-fu/Liuma-engine) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为引擎端
+
+## HTML
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+
+*   [Eslzzyl/silicon-pool](https://github.com/Eslzzyl/silicon-pool) - 一个用于管理硅基流动 API Key 的本地工具
+
+*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ## TypeScript
 
@@ -174,8 +176,6 @@
 *   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
 
 *   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
-
-*   [dqx-eterning/concurrent](https://github.com/dqx-eterning/concurrent) - 并发编程
 
 ## JavaScript
 
