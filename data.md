@@ -19,7 +19,11 @@
 
 ## Python
 
-*   [johnmalek312/fremko](https://github.com/johnmalek312/fremko) -
+*   [1405942836/appium-mcp](https://github.com/1405942836/appium-mcp) - Appium MCP Server 是一个异步、高性能的移动自动化测试框架，基于 MCP 协议与 Claude/ChatGPT 等 AI 集成，支持 Android/iOS 设备的发现、连接、UI 自动化和系统操作。
+
+*   [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+
+*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 
 *   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
@@ -172,10 +176,6 @@
 *   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 
 *   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
-
-*   [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
-
-*   [Allenhan123/MaterialLogin](https://github.com/Allenhan123/MaterialLogin) - Amazing Material Login effect
 
 ## JavaScript
 
