@@ -3,12 +3,12 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [JavaScript](#javascript)
-*   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
@@ -18,6 +18,8 @@
 *   [C](#c-1)
 
 ## Python
+
+*   [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
 
 *   [1405942836/appium-mcp](https://github.com/1405942836/appium-mcp) - Appium MCP Server 是一个异步、高性能的移动自动化测试框架，基于 MCP 协议与 Claude/ChatGPT 等 AI 集成，支持 Android/iOS 设备的发现、连接、UI 自动化和系统操作。
 
@@ -79,6 +81,16 @@
 
 *   [Chras-fu/Liuma-engine](https://github.com/Chras-fu/Liuma-engine) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为引擎端
 
+## Kotlin
+
+*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+
+*   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
+
+*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+
+*   [RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
+
 ## HTML
 
 *   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
@@ -125,7 +137,7 @@
 
 *   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 
 *   [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 
@@ -146,8 +158,6 @@
 *   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
 
 *   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
-
-*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
 ## Java
 
@@ -175,8 +185,6 @@
 
 *   [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 
-*   [SonicCloudOrg/sonic-driver-core](https://github.com/SonicCloudOrg/sonic-driver-core) - 🎉The Sonic UIAutomation Driver Core. Sonic UI自动化Driver核心。
-
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -200,14 +208,6 @@
 *   [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI powered OpenSource IDE for API first workflows
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-
-## Kotlin
-
-*   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
-
-*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
-
-*   [RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
 
 ## Dart
 
