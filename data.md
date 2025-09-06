@@ -19,6 +19,8 @@
 
 ## Python
 
+*   [FROZENJJ/picture\_similarity\_caculator](https://github.com/FROZENJJ/picture_similarity_caculator) - A simple python script to caculate the similarity of two picture.
+
 *   [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
 
 *   [1405942836/appium-mcp](https://github.com/1405942836/appium-mcp) - Appium MCP Server 是一个异步、高性能的移动自动化测试框架，基于 MCP 协议与 Claude/ChatGPT 等 AI 集成，支持 Android/iOS 设备的发现、连接、UI 自动化和系统操作。
@@ -78,8 +80,6 @@
 *   [zhongyehai/test-platform-api](https://github.com/zhongyehai/test-platform-api) -
 
 *   [Chras-fu/Liuma-agent](https://github.com/Chras-fu/Liuma-agent) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为设备代理端
-
-*   [Chras-fu/Liuma-engine](https://github.com/Chras-fu/Liuma-engine) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为引擎端
 
 ## Kotlin
 
