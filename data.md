@@ -19,6 +19,8 @@
 
 ## Python
 
+*   [MadeAgents/mobile-use](https://github.com/MadeAgents/mobile-use) - 《MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation》
+
 *   [FROZENJJ/picture\_similarity\_caculator](https://github.com/FROZENJJ/picture_similarity_caculator) - A simple python script to caculate the similarity of two picture.
 
 *   [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
@@ -79,8 +81,6 @@
 
 *   [zhongyehai/test-platform-api](https://github.com/zhongyehai/test-platform-api) -
 
-*   [Chras-fu/Liuma-agent](https://github.com/Chras-fu/Liuma-agent) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为设备代理端
-
 ## Kotlin
 
 *   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -101,7 +101,7 @@
 
 ## TypeScript
 
-*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!
+*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more | 🌟 Star if you like it!
 
 *   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
