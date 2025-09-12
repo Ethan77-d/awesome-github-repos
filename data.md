@@ -19,6 +19,8 @@
 
 ## Python
 
+*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
+
 *   [MadeAgents/mobile-use](https://github.com/MadeAgents/mobile-use) - 《MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation》
 
 *   [FROZENJJ/picture\_similarity\_caculator](https://github.com/FROZENJJ/picture_similarity_caculator) - A simple python script to caculate the similarity of two picture.
@@ -83,13 +85,13 @@
 
 ## Kotlin
 
+*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
 *   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 
 *   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
 
 *   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
-
-*   [RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
 
 ## HTML
 
@@ -234,8 +236,6 @@
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [zhongyehai/test-platform-front](https://github.com/zhongyehai/test-platform-front) - 自动化测试平台，目前已实现接口与自动化、UI自动化、安卓自动化
-
-*   [Chras-fu/Liuma-platform](https://github.com/Chras-fu/Liuma-platform) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为平台端
 
 ## CSS
 
