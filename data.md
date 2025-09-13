@@ -57,8 +57,6 @@
 
 *   [droidrun/droidrun](https://github.com/droidrun/droidrun) -
 
-*   [vibheksoni/VerbalCodeAi](https://github.com/vibheksoni/VerbalCodeAi) - VerbalCodeAI is a free, open-source AI tool that simplifies codebase navigation in your terminal, using Python 3.11.6 and Ollama. It indexes projects locally and quickly answers questions like “Where’s this function?”, saving developers time on debugging and onboarding.
-
 *   [zxfgds/mcp-code-indexer](https://github.com/zxfgds/mcp-code-indexer) -
 
 *   [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
@@ -236,6 +234,8 @@
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [zhongyehai/test-platform-front](https://github.com/zhongyehai/test-platform-front) - 自动化测试平台，目前已实现接口与自动化、UI自动化、安卓自动化
+
+*   [Chras-fu/Liuma-platform](https://github.com/Chras-fu/Liuma-platform) - 轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为平台端
 
 ## CSS
 
