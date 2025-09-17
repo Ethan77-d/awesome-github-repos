@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
@@ -15,6 +16,10 @@
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [CSS](#css)
+
+## Go
+
+*   [BetterAndBetterII/excalidraw-full](https://github.com/BetterAndBetterII/excalidraw-full) - Excalidraw Full: Your Self-Hosted, Cloud-Ready Collaboration Platform
 
 ## TypeScript
 
@@ -88,7 +93,7 @@
 
 *   [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
-*   [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper & WebWatcher https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592 https://arxiv.org/pdf/2508.05748
+*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
 
 *   [AEPAX/VerbaAurea](https://github.com/AEPAX/VerbaAurea) - VerbaAurea： 一个文档预处理工具，专注于为知识库构建提供高质量的文本数据。
 
@@ -159,8 +164,6 @@
 *   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
 *   [OpenGithubs/github-weekly-rank](https://github.com/OpenGithubs/github-weekly-rank) - Github开源项目:每周📈飙升榜 top20,每周一早上8点更新
-
-*   [varundtsfi/Android12Support\_withso](https://github.com/varundtsfi/Android12Support_withso) - Android 12 support with minicap.so file.
 
 ## Java
 
