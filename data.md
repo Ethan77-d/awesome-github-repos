@@ -93,7 +93,7 @@
 
 *   [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
-*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 *   [AEPAX/VerbaAurea](https://github.com/AEPAX/VerbaAurea) - VerbaAurea： 一个文档预处理工具，专注于为知识库构建提供高质量的文本数据。
 
