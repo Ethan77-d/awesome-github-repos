@@ -149,7 +149,7 @@
 
 *   [droidrun/droidrun-portal](https://github.com/droidrun/droidrun-portal) -
 
-*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
 
 ## HTML
 
